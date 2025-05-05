@@ -24,13 +24,14 @@ This model focus on solving this question:
 - **Granularity**: 15-minute intervals
 - **Size**: ~44,000 rows × 46 columns
 
+
 This repository includes the following files:
 
 ## 📝 Reports 
-- ** Final Proposal **
-- ** Data Manipulation & Descriptive Statistics **: how we cleaned and processed the data
-- ** Data Visualtions & Business Insights **: useful business insights and various visualizations that assist understanding the data
-- ** Machine Learning Predictive Model **: how we buld and refine the model that predict real time energy demand using Decision Tree algorithm
+- **Final Proposal**
+- **Data Manipulation & Descriptive Statistics**: how we cleaned and processed the data
+- **Data Visualtions & Business Insights**: useful business insights and various visualizations that assist understanding the data
+- **Machine Learning Predictive Model**: how we buld and refine the model that predict real time energy demand using Decision Tree algorithm
 
 ## 📒 Codebook
 - this file explain all the variables / column names and its abbreviations
