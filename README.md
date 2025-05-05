@@ -23,3 +23,7 @@ This model focus on solving this question:
 - **Period**: 2019–2024
 - **Granularity**: 15-minute intervals
 - **Size**: ~44,000 rows × 46 columns
+
+This repository includes the following files:
+
+## :memo:pencil: Reports 
