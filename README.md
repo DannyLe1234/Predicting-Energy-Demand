@@ -26,4 +26,4 @@ This model focus on solving this question:
 
 This repository includes the following files:
 
-## :memo:pencil: Reports 
+## :memo Reports 
