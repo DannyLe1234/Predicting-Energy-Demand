@@ -26,4 +26,14 @@ This model focus on solving this question:
 
 This repository includes the following files:
 
-## :memo: Reports 
+## 📝 Reports 
+- ** Final Proposal **
+- ** Data Manipulation & Descriptive Statistics **: how we cleaned and processed the data
+- ** Data Visualtions & Business Insights **: useful business insights and various visualizations that assist understanding the data
+- ** Machine Learning Predictive Model **: how we buld and refine the model that predict real time energy demand using Decision Tree algorithm
+
+## 📒 Codebook
+- this file explain all the variables / column names and its abbreviations
+
+## 💬 Presentation
+- For a more comprehensive or quick overview of the entire project, please see this presentation
